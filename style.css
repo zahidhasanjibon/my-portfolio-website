@@ -741,6 +741,18 @@ section.contact .wrapper .right .submit-btn:hover{
         grid-template-columns: 1fr;
     }
 }
+    @media(max-width:481px) {
+        section.work .wrapper .portfolio .portfolio-wrapper .item {
+            flex:48%;
+            max-width:48%;
+            margin:2px;
+        }
+
+    }
+
+
+
+
 
 /* for project preview design */
 .project-link {
