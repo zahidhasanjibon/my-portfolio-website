@@ -43,7 +43,7 @@ h1,h2,h3,h4,h5,h6{
     width:100%;
     position: fixed;
     z-index: 100;
-    background:#000 url("./images/preloader.gif");
+    background:#000 url("./images/preloader-.gif");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
