@@ -843,6 +843,20 @@ footer {
   background-color: #000;
   opacity: 0.7;
 }
+.cv-download-btn {
+  background-color: rgba(77, 121, 246, 0.1);
+  color: var(--pure);
+  padding: 8px 8px;
+  font-size: 12px;
+  border: none;
+  line-height: 24px;
+  outline: none;
+  cursor: pointer;
+  transition: 0.2s all ease;
+}
+.cv-download-btn:hover {
+  background-color: rgba(108, 193, 80, 0.1);
+}
 .project-main-div {
   position: relative;
 }
