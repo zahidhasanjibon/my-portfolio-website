@@ -703,6 +703,17 @@ section.contact .wrapper .right .submit-btn:hover {
 
 /* contacts ends here */
 
+/* certificate img */
+.certificate-img {
+  width: 90% !important;
+  height: 200px !important;
+  border-radius: 0px !important;
+  object-fit: fill !important;
+}
+.icon-wrap {
+  margin-top: 24px;
+}
+
 /* footer starts here */
 footer {
   background-color: var(--footer);
