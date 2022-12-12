@@ -89,7 +89,7 @@ $(document).ready(function () {
         let displayedCount = +counter.innerText;
         if (displayedCount < target) {
           counter.innerText = Math.ceil(displayedCount + step);
-          setTimeout(countIt, 1);
+          setTimeout(countIt, 10);
         } else {
           counter.innerText = target;
         }
